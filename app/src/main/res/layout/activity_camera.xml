@@ -35,6 +35,7 @@
                 app:layout_constraintTop_toTopOf="parent">
 
                 <ImageView
+                    android:scaleType="fitXY"
                     app:srcCompat="@android:color/darker_gray"
                     android:id="@+id/cameraImageView"
                     android:layout_width="match_parent"
