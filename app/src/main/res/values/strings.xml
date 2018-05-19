@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MfExpert LMS</string>
+    <string name="preference_file_key">mfexpert_lms_pref_file_key</string>
+
+    <string name="navigation_drawer_open">Open</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="nav_drawer_description">Navigation Drawer</string>
+    <string name="nav_drawer_profile_image_desc">Profile Image</string>
+
+    <string name="sorry">Sorry</string>
+    <string name="no_results">No results to show</string>
+    <string name="you_are_offline">You are offline</string>
+</resources>
